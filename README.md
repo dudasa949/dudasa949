@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dudasa949
 - 👀 I’m interested in cars, mainly.
-- 🌱 I’m currently learning something called programming.
-- 💞️ I’m looking to collaborate on ... honestly idk what ths means.
+- 🌱 I’m currently trying to understand programming.
+- 🕹️ Wannabe Game Developer
 - 📫 How to reach me: send a FAX
 - 😄 Pronouns: He/He
 
