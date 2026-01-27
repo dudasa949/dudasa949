@@ -1,11 +1,3 @@
-- 👋 Hi, I’m @dudasa949
-- 👀 I’m interested in cars, mainly.
-- 🌱 I’m currently trying to understand programming.
-- 🕹️ Wannabe Game Developer
-- 📫 How to reach me: send a FAX
-- 😄 Pronouns: He/He
+<h1 align="center">🔥 V6 a pokolban is V6 💪</h1>
 
-<!---
-dudasa949/dudasa949 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![IMG_4052](https://github.com/user-attachments/assets/fb257503-e371-4a6d-b230-4ccfb27489c6)
