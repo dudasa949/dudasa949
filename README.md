@@ -1,3 +1,5 @@
-<h1 align="center">🔥 A V6 a pokolban is V6 💪</h1>
+<h1 align="center">Rally és autófotózás a felsőfokon</h1>
 
-![IMG_4052 másolata](https://github.com/user-attachments/assets/7f8cd9aa-00d0-4783-8e2c-9eb5a422f1a7)
+<img width="4000" height="1524" alt="17A99EF8-531D-4873-BEC1-29E180B96CDE" src="https://github.com/user-attachments/assets/d7562a24-9368-4cb1-b9c6-83175a458dc9" />
+
+<h1 align="center">AD Visuals</h1>
